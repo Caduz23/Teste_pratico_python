@@ -1,0 +1,10 @@
+[project]
+name = "python-teste"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pgzero>=1.2.1",
+    "pygame>=2.6.1",
+]
